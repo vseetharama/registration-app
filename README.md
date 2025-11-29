@@ -71,6 +71,6 @@ I used InfinityFree (free PHP hosting):
 ---
 
 ## Contact
-- Email: you@example.com
+- Email: mugerayaseetharama@gmail.com
 - GitHub: `https://github.com/vseetharama/registration-app`
 
